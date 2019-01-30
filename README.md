@@ -8,6 +8,6 @@ tasks done:
 - create simple job : `gcc hello.c`
 - connect github assignment repository with webhook to trigger when theres a new commit or PR)
 - jenkins build automatically triggers and sends email when failure
-- added screenshots for the same
+- added screenshots and project report for the same
 
 T.Aditya (IMT2015521)
